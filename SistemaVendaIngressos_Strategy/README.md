@@ -8,15 +8,15 @@ Existem várias razões pelas quais é interessante utilizar Design Patterns:
 
 ### Reutilização de soluções:   
 
-    Os Design Patterns oferecem soluções testadas e comprovadas para problemas comuns. Ao aplicar um Design Pattern, você pode economizar tempo e esforço, pois não precisa reinventar a roda toda vez que encontrar um problema semelhante.
+   Os Design Patterns oferecem soluções testadas e comprovadas para problemas comuns. Ao aplicar um Design Pattern, você pode economizar tempo e esforço, pois não precisa reinventar a roda toda vez que encontrar um problema semelhante.
 
 ### Comunicação efetiva: 
 
-    Os Design Patterns fornecem uma terminologia comum que os desenvolvedores podem usar para discutir soluções de design. Isso facilita a comunicação entre membros da equipe e melhora a compreensão do código.
+   Os Design Patterns fornecem uma terminologia comum que os desenvolvedores podem usar para discutir soluções de design. Isso facilita a comunicação entre membros da equipe e melhora a compreensão do código.
 
 ### Melhoria da manutenibilidade: 
 
-    Os Design Patterns promovem o desenvolvimento de um código mais modular e de fácil manutenção. Eles ajudam a separar preocupações, tornando as alterações mais localizadas e menos propensas a introduzir erros em outras partes do sistema.
+   Os Design Patterns promovem o desenvolvimento de um código mais modular e de fácil manutenção. Eles ajudam a separar preocupações, tornando as alterações mais localizadas e menos propensas a introduzir erros em outras partes do sistema.
 
 ***
 
